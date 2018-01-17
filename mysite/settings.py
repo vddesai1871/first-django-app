@@ -25,7 +25,7 @@ SECRET_KEY = 'ihc))d(@t6uexehq!ug!2g&12d3@8dw$sm@e*s=@40+8swcn$e'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["127.0.0.1", "localhost", "thelastwolf.pythonanywhere.com"]
 
 
 # Application definition
